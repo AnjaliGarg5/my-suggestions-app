@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fef2f2;
+}
+
+.App {
+  font-family: cursive, sans-serif;
+  margin: auto;
+  max-width: 80%;
+  padding: 2rem;
+}
+
+ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
